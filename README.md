@@ -6,6 +6,8 @@ This Poc is based on a remarkable work from Karim Maaloul (Demos and game for th
 
 [Demo](http://tympanus.net/Tutorials/TheAviator/)
 
+Have a try:  https://gregorybesson.github.io/wordGL/
+
 
 ## Description
 This game is a demo on what a game based on french orthograph could be. More fun, I revisit the famous "Texte à trous"
